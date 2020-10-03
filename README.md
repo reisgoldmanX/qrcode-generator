@@ -7,7 +7,7 @@ The generated QR code can be saved on the local machine as a PNG file.
 
 ## İnstallation
 
-To run the above code you might require to install pyqrcode module. Install using the command below :
+To run the above code you might require to install qrcode module. Install using the command below :
 
 * İnstall qrcode[pil]
 >pip install qrcode[pil]
