@@ -14,10 +14,12 @@ pip install qrcode[pil]
 ```
 # Usage
 For Windows Open Command Prompt and cd into the directory of the script.
-Then type `qr_generator.py` press <kbd>Enter</kbd> .
+Then type `qr_generator.py` press <kbd>Enter</kbd>.
 
 For Linux Open terminal and cd into the directory of the script. 
-Then type `python3 qr_generator.py` press press <kbd>Enter</kbd> .
+Then type `python3 qr_generator.py` press press <kbd>Enter</kbd>.
+
+You can choose hex colors from this [link](https://htmlcolorcodes.com/).
 
 Example Usage:
 ```
@@ -35,4 +37,4 @@ The QR code will be generated in the script folder.
 
 This is the QR code we generated.
 
-[QR code Example](reisgoldmanX.png)
+[QR code Example](reisgoldmanX.png).
