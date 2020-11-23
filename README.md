@@ -27,8 +27,14 @@ Example Usage:
     - Black
 + Write the QR code color as HEX code or color name.!
     - Red
++ Write the Qr code version you want to create.!(1-40)
+    - 1
++ Write the Qr code box size.!(Default 15)
+    - 15
++ Write the border.!(Default 3)
+    -3
 + Write the data to fill the QR code.!
-    - https://github.com/reisgoldmanX = data
+    - www.github.com/reisgoldmanX
 + Write the file name with extension(filename.extension).!
     - reisgoldmanX.png
 + QR code generated with the name of reisgoldmanX.png
