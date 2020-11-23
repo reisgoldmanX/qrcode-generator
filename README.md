@@ -35,4 +35,4 @@ The QR code will be generated in the script folder.
 
 This is the QR code we generated.
 
-[Example QR code](https://github.com/reisgoldmanX/qrcode-generator/blob/main/reisgoldmanX.png)
+[reisgoldmanX.png]
