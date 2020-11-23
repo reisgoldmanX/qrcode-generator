@@ -35,4 +35,4 @@ The QR code will be generated in the script folder.
 
 This is the QR code we generated.
 
-[QR code Example](http://octodex.github.com/reisgoldmanX.png)
+[QR code Example](reisgoldmanX.png)
